@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "823434741318",
+    "firebase_url": "https://invoke-d540d.firebaseio.com",
+    "project_id": "invoke-d540d",
+    "storage_bucket": "invoke-d540d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823434741318:android:cac290ec41d18309d6ac47",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823434741318-fugad35731dm7cfdksh8oc5dag0nlfjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQJa9coTQD_OSWa--q4uHrhpTHgZlWzZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823434741318-fugad35731dm7cfdksh8oc5dag0nlfjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
