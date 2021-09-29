@@ -1,3 +1,3 @@
-<p align="center" style="margin-top: 30px;height: 400;width:500;">
+<p align="center" style="margin-top: 30px;height: 100;width:200;">
 <img src="media/edit-screen2.gif"  />
 </p>
